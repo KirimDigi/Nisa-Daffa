@@ -1,0 +1,48 @@
+﻿@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 100;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdSn0-NKQc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 200;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSfSnk-NKQc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmScMnk-NKQc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdSnk-NKQc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdgnk-NKQc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSeMmU-NKQc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSe1mU-NKQc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sora';
+  font-style: normal;
+  font-weight: 800;
+  src: url(s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSfSmU-NKQc.ttf) format('truetype');
+}

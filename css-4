@@ -1,0 +1,60 @@
+﻿@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-weight: 300;
+  src: url(s/cormorantinfant/v22/Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nI1PQvjprkA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-weight: 400;
+  src: url(s/cormorantinfant/v22/Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nIw3QvjprkA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-weight: 500;
+  src: url(s/cormorantinfant/v22/Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nIz_QvjprkA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-weight: 600;
+  src: url(s/cormorantinfant/v22/Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nI9PXvjprkA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: italic;
+  font-weight: 700;
+  src: url(s/cormorantinfant/v22/Hhy8U44g9vKiM1sORYSiWeAsLN997_IP1zv1ljKnOa3nI-rXvjprkA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/cormorantinfant/v22/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrhxYNWUjj0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/cormorantinfant/v22/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrgvYNWUjj0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/cormorantinfant/v22/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrgdYNWUjj0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/cormorantinfant/v22/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrjxZ9WUjj0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Cormorant Infant';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/cormorantinfant/v22/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrjIZ9WUjj0.ttf) format('truetype');
+}

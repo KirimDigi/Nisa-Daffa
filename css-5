@@ -1,0 +1,12 @@
+﻿@font-face {
+  font-family: 'Aref Ruqaa';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/arefruqaa/v26/WwkbxPW1E165rajQKDulIIcoUA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Aref Ruqaa';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/arefruqaa/v26/WwkYxPW1E165rajQKDulKDwNQNUY3A.ttf) format('truetype');
+}

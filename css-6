@@ -1,0 +1,24 @@
+﻿@font-face {
+  font-family: 'Noto Sans Sora Sompeng';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHR81_Dub3Y.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Sora Sompeng';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHRO1_Dub3Y.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Sora Sompeng';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSi0PDub3Y.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Sora Sompeng';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSb0PDub3Y.ttf) format('truetype');
+}
